@@ -1,5 +1,5 @@
 {
-  "name": "hu-test",
+  "name": "fast-hu-test",
   "version": "0.0.1",
   "description": "测试发布npm包",
   "main": "hu-test.js",
@@ -22,5 +22,8 @@
     "lodash": "^4.17.15",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
