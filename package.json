@@ -1,0 +1,24 @@
+{
+  "name": "hu-test",
+  "version": "1.0.0",
+  "description": "测试发布npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youhui1214/hu-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youhui1214/hu-test/issues"
+  },
+  "homepage": "https://github.com/youhui1214/hu-test#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.6"
+  }
+}
